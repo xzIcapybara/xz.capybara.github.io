@@ -1,0 +1,42 @@
+*{
+    margin:0;
+}
+main{
+    background-image: url(1646052941_1-abrakadabra-fun-p-zelenii-shkolnii-fon-1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+header>img{
+    margin: 30px;
+
+}
+.one{
+    margin-right: 35%;
+}
+.last{
+    margin-left: 35%;
+}
+.people{
+    margin-left: 65%;
+}
+.cho{
+    margin-right: 10%;
+}
+.people{
+    margin-left: 35%;
+}
+button img src="img/favpng
+{
+    margin-right: 30%;
+}
+    
